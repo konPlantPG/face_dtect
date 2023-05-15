@@ -87,5 +87,5 @@ validators==0.20.0
 watchdog==2.1.9
 yarl==1.8.1
 zipp==3.10.0
-retina-face==0.0.13
-opencv-python==4.7.0.72
+retina-face
+opencv-python
