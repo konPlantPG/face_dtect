@@ -87,3 +87,4 @@ validators==0.20.0
 watchdog==2.1.9
 yarl==1.8.1
 zipp==3.10.0
+retina-face==0.0.13
