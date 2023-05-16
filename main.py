@@ -1,8 +1,8 @@
+import cv2
 import streamlit as st
 from PIL import Image
 from io import BytesIO
 import base64
-import cv2
 from retinaface import RetinaFace
 import numpy as np
 
