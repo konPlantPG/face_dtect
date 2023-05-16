@@ -2,8 +2,8 @@ import streamlit as st
 from PIL import Image
 from io import BytesIO
 import base64
-from retinaface import RetinaFace
 import cv2
+from retinaface import RetinaFace
 import numpy as np
 
 st.set_page_config(layout="wide", page_title="人の顔検出")
