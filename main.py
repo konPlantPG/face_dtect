@@ -59,11 +59,11 @@ def detect_face(upload):
 col1, col2 = st.columns(2)
 
 st.sidebar.write("""
-    ## 判定閾値
+    ## Threshold
     """)
 
 value= st.sidebar.slider(
-        '範囲を指定してください',
+        'Range',
         0.0, 1.0, value=0.7
     )
 
