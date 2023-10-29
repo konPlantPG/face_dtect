@@ -17,7 +17,7 @@ st.write(
     "This app using RetinaFace algorithm. Special thanks to the [retina-face] [here](https://github.com/serengil/retinaface)"
 )
 
-
+print("test")
 
 # Download the face dtect image
 def convert_image(img):
